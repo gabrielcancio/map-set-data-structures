@@ -1,0 +1,16 @@
+{
+  "name": "data-structure-map-set-js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx nodemon src/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "faker": "^5.5.0"
+  }
+}
